@@ -37,7 +37,7 @@ const GameResult: React.FC<ComponentProps> = ({ scores, game }) => {
                   </p>
                   {game.paidOut && (
                     <p>
-                      Prize: {score.prize.toFixed(2)} ETH | Score: {score.score}
+                      Prize: {score.prize.toFixed(2)} CELO | Score: {score.score}
                     </p>
                   )}
                 </div>

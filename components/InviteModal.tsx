@@ -68,7 +68,7 @@ const InviteModal: React.FC = () => {
                 minLength={42}
                 maxLength={42}
                 pattern="[A-Za-z0-9]+"
-                placeholder="Player ETH Account"
+                placeholder="Player CELO Account"
                 required
               />
             </div>

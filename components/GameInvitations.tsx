@@ -77,7 +77,7 @@ const GameInvitations: React.FC<ComponentProps> = ({ invitations, game, label })
                       })}
                     </Link>
                   )}
-                  <p>{invitation.stake.toFixed(2)} ETH</p>
+                  <p>{invitation.stake.toFixed(2)} CELO</p>
                 </div>
               </div>
             </div>
